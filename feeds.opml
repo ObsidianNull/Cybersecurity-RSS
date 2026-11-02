@@ -10,5 +10,6 @@
         <outline text="https://www.securityweek.com/feed/" title="https://www.securityweek.com/feed/" type="rss" xmlUrl="https://www.securityweek.com/feed/" htmlUrl="https://www.securityweek.com/feed/"/>
         <outline text="https://www.bleepingcomputer.com//feed" title="https://www.bleepingcomputer.com//feed" type="rss" xmlUrl="https://www.bleepingcomputer.com//feed" htmlUrl="https://www.bleepingcomputer.com//feed"/>
         <outline text="https://www.wired.com/feed/rss" title="https://www.wired.com/feed/rss" type="rss" xmlUrl="https://www.wired.com/feed/rss" htmlUrl="https://www.wired.com/feed/rss"/>
+        <outline text="Joho no Todai - Security (Japanese)" title="Joho no Todai - Security (Japanese)" type="rss" xmlUrl="https://joho-todai.com/tag/security/rss/" htmlUrl="https://joho-todai.com/tag/security/"/>
     </body>
 </opml>
